@@ -1,21 +1,21 @@
-# GPUPlaybook
+everything im learning about GPUs. how they can be used. how they can be optimized for ml workloads.
 
-Everything about distributed computing with GPUs
+## setup
 
-## Setup
+## memory usage
 
-## Memory Usage
+## profiling
 
-## Profiling
+## activation memory
 
-## Activation Memory
+## activation recomputation
 
-## Activation Recomputation
+## gradient accumulation
 
-## Gradient Accumulation
+## data parallelism
 
-## Data Parallelism
+## zero
 
-## ZeRO
+## configuration
 
-## Configuration
+## model parallelism
